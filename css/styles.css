@@ -1,0 +1,26 @@
+.page-body{
+  background-image: radial-gradient(134.34% 134.34% at 50% 0%, #1F3757 0%, #131537 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.paper-img{
+  background-image: url(/img/paper.png);
+  background-repeat: no-repeat;
+  width: 205px;
+  height: 203px;;
+}
+
+.rock-img{
+  background-image: url(/img/rock.png);
+  background-repeat: no-repeat;
+  width: 205px;
+  height: 203px;;
+}
+
+.scissors-img{
+  background-image: url(/img/scissors.png);
+  background-repeat: no-repeat;
+  width: 205px;
+  height: 203px;;
+}
